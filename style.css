@@ -20,7 +20,11 @@ html {
 
 /* Image Styles*/
 
-.bg-image {
+.bg-dark {
+    background-color: #192B37;
+    color:white;
+
+}.bg-image {
     background-image: url(images/sleep-co-1.jpg);
     background-size: cover;
     min-height: 18rem;
@@ -30,8 +34,7 @@ html {
 .padded {padding:5%;}
 .padded-sm {padding: 1rem;}
 
-.bg-dark {
-    background-color: #192B37;
-    color:white;
-}
+
+
+
 
