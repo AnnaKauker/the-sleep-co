@@ -19,6 +19,7 @@ section {
 .padded-sm  {padding: 1rem;}
 .padded-lg  {padding:10%;}
 
+
 .tall-50 { min-height: 50vh;}
 .tall-60 { min-height: 60vh;}
 .tall-70 { min-height: 70vh;}
@@ -103,8 +104,31 @@ p:last-child    {margin-bottom: 0;
     background-position: 50% 57%;
 }
 
+.bg-logo {
+    background-image: url(images/Schwarz\ und\ weiß\ gerahmt\ Kessey\ Dj\ Logo\ \(3\).png);
+    max-width: 3rem;
+    background-size: cover;
+    background-position: 50%;
+    padding-bottom: 2rem;
+    margin-top: 1%;
+    margin-bottom: 1%;;
+}
 
 
+
+/*----Navigation Bar----*/
+
+.navigation {padding:4%;}
+
+.navigation a {
+    text-align:right;
+    border: none;
+    padding:1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.1rem;;
+
+}
 
 
 /*---------Header Styles--------*/
