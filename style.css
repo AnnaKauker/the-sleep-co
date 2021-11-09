@@ -144,6 +144,8 @@ header h3 {
     line-height: 1;
 }
 
+.fixed {background-attachment: fixed;}
+
 /*------Icon Styles-------*/
 
 .fas {
